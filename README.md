@@ -1,7 +1,8 @@
 # rollup-plugin-alias
 Define aliases when bundling packages with Rollup.
 
-[![Build Status](https://travis-ci.org/rollup/rollup-plugin-alias.svg?branch=master)](https://travis-ci.org/rollup/rollup-plugin-alias) [![Dependency Status](https://david-dm.org/frostney/rollup-plugin-alias.svg)](https://david-dm.org/frostney/rollup-plugin-alias) [![devDependency Status](https://david-dm.org/frostney/rollup-plugin-alias/dev-status.svg)](https://david-dm.org/frostney/rollup-plugin-alias#info=devDependencies) [![Coverage Status](https://coveralls.io/repos/github/frostney/rollup-plugin-alias/badge.svg?branch=master)](https://coveralls.io/github/frostney/rollup-plugin-alias?branch=master)
+__This is fork, which is done for the sake of working with all files, without adding .js__
+
 
 Let's take a simple import as an example:
 

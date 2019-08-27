@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-alias",
+  "name": "rollup-plugin-alias-fork",
   "version": "2.0.0",
   "description": "Resolves aliases with Rollup",
   "main": "dist/rollup-plugin-alias.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frostney/rollup-plugin-alias.git"
+    "url": "https://github.com/DavraYoung/rollup-plugin-alias"
   },
   "keywords": [
     "rollup",
